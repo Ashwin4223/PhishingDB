@@ -304,7 +304,7 @@ def links_pointing(url):
 def statistical(url):
     return 0
 
-df = pd.read_csv('output.csv')
+df = pd.read_csv('database.csv')
 
 #renaming columns
 df1 = df.copy()
