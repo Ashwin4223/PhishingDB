@@ -26,7 +26,7 @@ A machine learning-based phishing detection app built using Python. It analyzes 
 ## 🧪 Dataset
 
 - The project uses a dataset of legitimate and phishing URLs with labeled features.
-- You can find the dataset used in `output.csv`.
+- You can find the dataset used in `dataset.csv`.
 
 ---
 
