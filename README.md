@@ -37,6 +37,22 @@ git clone https://github.com/yourusername/phishing-detection-py.git
 cd phishing-detection-py
 pip install -r requirements.txt
 ```
+---
+
+## ⚠️ Important Note
+
+- The application must be run in VS Code as Administrator.
+- This is required because the code applies changes on log files, which need elevated permissions.
+
+---
+
+## 🛠️ Troubleshooting
+
+- If you run the app without administrator privileges, you may encounter errors such as:
+    `Permission denied while accessing log files.`
+    `Inability to update or modify required system files.`
+  
+✅ To fix this, simply restart VS Code and run it as Administrator, then rerun the script.
 
 ---
 
